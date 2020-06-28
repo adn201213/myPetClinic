@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.adnan</groupId>
     <artifactId>myPetClinic1</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
   </parent>
   <artifactId>pet-clinic-web</artifactId>
   <name>pet-clinic-web</name>
@@ -12,7 +12,7 @@
 			   
     <artifactId>pet-clinic-data</artifactId>
     <groupId>com.adnan</groupId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 		</dependency>
   <dependency>
 			<groupId>org.springframework.boot</groupId>

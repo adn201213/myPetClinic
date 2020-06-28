@@ -1,0 +1,79 @@
+2020-06-28 00:19:42,500 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-28 00:20:09,903 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-data\pom.xml.
+2020-06-28 00:20:09,904 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-web:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-web\pom.xml.
+2020-06-28 00:20:09,924 [Worker-17: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.adnan:pet-clinic-data:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-06-28 00:20:12,217 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:12,227 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:12,229 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:12,235 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:12,236 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:14,199 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:14,206 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:14,207 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:14,213 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:14,214 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:15,066 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-web:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-web\pom.xml.
+2020-06-28 00:20:15,341 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-web:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-web\pom.xml.
+2020-06-28 00:20:15,469 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:20:15,680 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:20:16,730 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:16,731 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:16,731 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:16,734 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:16,735 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-28 00:20:17,752 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:20:17,823 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:17,824 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:17,824 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:17,827 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:17,828 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-28 00:20:18,726 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-web:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-web\pom.xml.
+2020-06-28 00:20:19,226 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:20:20,771 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:20:20,835 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:20,835 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:20,836 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:20,838 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:20:20,839 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:20:55,131 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-web:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-web\pom.xml.
+2020-06-28 00:20:55,135 [Worker-13: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.adnan:pet-clinic-data:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-06-28 00:21:10,293 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-data\pom.xml.
+2020-06-28 00:21:11,019 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:11,020 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:11,022 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:11,131 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:11,132 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:12,524 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-web:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-web\pom.xml.
+2020-06-28 00:21:12,785 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:12,790 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:12,791 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:12,794 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:12,795 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:12,862 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:21:13,904 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-web:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-web\pom.xml.
+2020-06-28 00:21:14,251 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:21:14,655 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:14,655 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:14,656 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:14,658 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:14,658 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-28 00:21:15,699 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:21:16,048 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:16,052 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:16,053 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:16,232 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:16,232 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-web:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-web\pom.xml.
+2020-06-28 00:21:16,234 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-28 00:21:16,643 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:21:17,216 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT @ C:\JavaEclipse\UdemySpring\myPetClinic1\pet-clinic-data\pom.xml.
+2020-06-28 00:21:18,599 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:18,600 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:18,600 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:18,602 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:18,603 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:18,997 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.adnan:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-06-28 00:21:19,048 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:19,049 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:19,049 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-28 00:21:19,051 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-28 00:21:19,052 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

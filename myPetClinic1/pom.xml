@@ -42,7 +42,7 @@
 	
    <scm>
         <developerConnection>scm:git:git@github.com:adn201213/myPetClinic1.git</developerConnection>
-      <tag>myPetClinic1-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 	
 </project>
